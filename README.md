@@ -30,4 +30,19 @@ I'm studying Computer Science at Università degli Studi di Firenze
 
 ### Badges <b>My GitHub Stats</b>
 <a href="http://www.github.com/CargoCodes"><img src="https://github-readme-stats.vercel.app/api?username=CargoCodes&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CargoCodes's GitHub stats" /></a>
-<a href="http://www.github.com/CargoCodes"><img src="https://activity-graph.herokuapp.com/graph?username=CargoCodes&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/CargoCodes/WbSearch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CargoCodes&repo=WbSearch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/CargoCodes/TerminalPyth" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CargoCodes&repo=TerminalPyth&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><div width="100%" align="center"><a href="https://github.com/CargoCodes/winux" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CargoCodes&repo=winux&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/CargoCodes/Terminal-Tools" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CargoCodes&repo=Terminal-Tools&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="http://www.github.com/CargoCodes"><img src="https://activity-graph.herokuapp.com/graph?username=CargoCodes&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<b>Top Repositories</b><div width="100%" align="center">
+<a href="https://github.com/CargoCodes/WbSearch" align="left">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CargoCodes&repo=WbSearch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/CargoCodes/TerminalPyth" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CargoCodes&repo=TerminalPyth&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+</div>
+<br /><br />
+<div width="100%" align="center">
+<a href="https://github.com/CargoCodes/winux" align="left">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CargoCodes&repo=winux&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/CargoCodes/Terminal-Tools" align="right">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CargoCodes&repo=Terminal-Tools&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+</div>
