@@ -9,6 +9,7 @@ I'm studying Computer Science at Università degli Studi di Firenze
 *   🌍  I'm based in Florence
 *   🖥️  See my portfolio at [cargocodes.github.io](http://cargocodes.github.io/)
 *   ✉️  You can contact me at [cargo.coder@gmail.com](mailto:cargo.coder@gmail.com)
+
 ### Skills
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -23,11 +24,8 @@ I'm studying Computer Science at Università degli Studi di Firenze
 ### Socials
                   
 <p align="left">
-                          
   <a href="https://www.github.com/CargoCodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-  <a href="http://www.instagram.com/er.fonico.sgravato" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>
+  <a href="http://www.instagram.com/er.fonico.sgravato" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
@@ -43,11 +41,3 @@ I'm studying Computer Science at Università degli Studi di Firenze
 
 <p><img align="left" style="border-width: 0;" src="https://github-readme-stats.vercel.app/api/top-langs?username=cargocodes&show_icons=true&theme=dark&locale=en&layout=compact" alt="cargocodes" /></p>
 
-<b>Top Repositories</b>
-<div width="100%" align="center">
-  <a href="https://github.com/CargoCodes/WbSearch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CargoCodes&repo=WbSearch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/CargoCodes/TerminalPyth" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CargoCodes&repo=TerminalPyth&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
-
-<br /><br /><br /><br /><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/CargoCodes/winux" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CargoCodes&repo=winux&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/CargoCodes/Terminal-Tools" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CargoCodes&repo=Terminal-Tools&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
