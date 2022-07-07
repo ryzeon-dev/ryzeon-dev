@@ -1,7 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cargo   
 ## I'm mainly a backend developer 
 
-Student of Computer Science at Università degli Studi di Firenze  
+Student of Computer Engineering at Università degli Studi di Firenze  
 * 🌍  I'm based in Firenze 
 * 🖥️  See my portfolio at [CargoCodes.github.io](http://CargoCodes.github.io) 
 * 🧠  I'm learning SQL, JavaScript
