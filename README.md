@@ -17,7 +17,7 @@ Student of Computer Engineering at Università degli Studi di Firenze
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/CargoCodes"><img src="https://github-readme-stats.vercel.app/api?username=CargoCodes&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CargoCodes's GitHub stats" /></a>
-<a href="http://www.github.com/CargoCodes"><img src="https://activity-graph.herokuapp.com/graph?username=CargoCodes&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<p><img align="left" style="border-width: 0;" src="https://github-readme-stats.vercel.app/api/top-langs?username=cargocodes&show_icons=true&theme=dark&locale=en&layout=compact" alt="cargocodes" /></p>
+<a href="http://www.github.com/cpy-dev"><img src="https://github-readme-stats.vercel.app/api?username=cpy-dev&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CargoCodes's GitHub stats" /></a>
+<a href="http://www.github.com/cpy-dev"><img src="https://activity-graph.herokuapp.com/graph?username=cpy-dev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p><img align="left" style="border-width: 0;" src="https://github-readme-stats.vercel.app/api/top-langs?username=cpy-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="cpy-dev" /></p>
 
