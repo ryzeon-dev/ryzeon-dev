@@ -1,5 +1,4 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cpy   
-## I'm mainly a backend developer 
 
 Student of Computer Engineering at Università degli Studi di Firenze  
 * 🌍  I'm based in Firenze 
