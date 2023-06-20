@@ -15,9 +15,4 @@ Developer and mainteiner of [Skarlett programming language](https://github.com/s
 ### Socials  
 <p align="left"> <a href="https://www.github.com/CargoCodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dcc.cpy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
 <p><img align="left" style="border-width: 0;" src="https://github-readme-stats.vercel.app/api/top-langs?username=cpy-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="cpy-dev" /></p>
-
