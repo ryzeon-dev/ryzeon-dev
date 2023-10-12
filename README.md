@@ -5,7 +5,6 @@ Student of Computer Engineering at Università degli Studi di Firenze
 Developer and mainteiner of [Skarlett programming language](https://github.com/skarlett-language)
 
 * 🌍  I'm based in Firenze 
-* 🖥️  See my portfolio at [cpy-dev.github.io](http://cpy-dev.github.io) 
 * 🧠  I'm learning SQL, JavaScript
 
 ### Skills
