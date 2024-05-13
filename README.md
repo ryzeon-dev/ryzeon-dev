@@ -27,4 +27,4 @@ Developer and mainteiner of [Skarlett programming language](https://github.com/s
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzeon-dev&langs_count=10&bg_color=242627&text_color=16A085&title_color=16A085" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzeon-dev&langs_count=10&bg_color=242627&text_color=16A085&title_color=16A085&border_color=242627"/>
