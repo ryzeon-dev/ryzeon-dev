@@ -9,9 +9,22 @@ Developer and mainteiner of [Skarlett programming language](https://github.com/s
 
 ### Skills
 
-<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"></a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> </p> 
+<div style="display: grid; grid-template-columns: auto auto auto;">
+  <img src="https://img.shields.io/badge/python-242627?logo=python&logoColor=16a085&style=for-the-badge" href="" />
+  <img src="https://img.shields.io/badge/rust-242627?logo=rust&logoColor=16a085&style=for-the-badge" href="" />  
+  <img src="https://img.shields.io/badge/c-242627?logo=c&logoColor=16a085&style=for-the-badge" href="" />
+  <br/>
+  <img src="https://img.shields.io/badge/c%2B%2B-242627?logo=C%2B%2B&logoColor=16a085&style=for-the-badge" href="" />
+  <img src="https://img.shields.io/badge/java-242627?logo=java&logoColor=16a085&style=for-the-badge" href="" />
+  <img src="https://img.shields.io/badge/javascript-242627?logo=javascript&logoColor=16a085&style=for-the-badge" href="" />
+  <br/>
+  <img src="https://img.shields.io/badge/html5-242627?logo=html5&logoColor=16a085&style=for-the-badge" href="" />
+  <img src="https://img.shields.io/badge/react-242627?logo=react&logoColor=16a085&style=for-the-badge" href="" />
+  <img src="https://img.shields.io/badge/css-242627?logo=css3&logoColor=16a085&style=for-the-badge" href="" />
+  <br/>
+  <img src="https://img.shields.io/badge/bash-242627?logo=gnu bash&logoColor=16a085&style=for-the-badge" href="" />
+</div>
 
-### Socials  
-<p align="left"> <a href="https://www.github.com/ryzeon-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dcc.skt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+### Stats
 
-<p><img align="left" style="border-width: 0;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryzeon-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="ryzeon-dev" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzeon-dev&langs_count=10&bg_color=242627&text_color=16A085&title_color=16A085" />
