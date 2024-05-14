@@ -9,7 +9,7 @@ Developer and mainteiner of [Skarlett programming language](https://github.com/s
 
 ### Skills
 
-<div style="display: grid; grid-template-columns: auto auto auto;">
+<div>
   <img src="https://img.shields.io/badge/python-242627?logo=python&logoColor=16a085&style=for-the-badge" href="" />
   <img src="https://img.shields.io/badge/rust-242627?logo=rust&logoColor=16a085&style=for-the-badge" href="" />  
   <img src="https://img.shields.io/badge/c-242627?logo=c&logoColor=16a085&style=for-the-badge" href="" />
