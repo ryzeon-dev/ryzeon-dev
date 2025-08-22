@@ -22,9 +22,7 @@ Developer and mainteiner of [Skarlett programming language](https://github.com/s
   <img src="https://img.shields.io/badge/react-242627?logo=react&logoColor=16a085&style=for-the-badge" href="" />
   <img src="https://img.shields.io/badge/css-242627?logo=css3&logoColor=16a085&style=for-the-badge" href="" />
   <br/>
-  <img src="https://img.shields.io/badge/gnu_bash-242627?logo=gnu bash&logoColor=16a085&style=for-the-badge" href="" />
   <img src="https://img.shields.io/badge/docker-242627?logo=docker&logoColor=16a085&style=for-the-badge" href="" />
-  <br/>
   <img src="https://img.shields.io/badge/postgresql-242627?logo=PostgreSQL&logoColor=16a085&style=for-the-badge" href="" />
   <img src="https://img.shields.io/badge/sqlite-242627?logo=sqlite&logoColor=16a085&style=for-the-badge" href="" />
 </div>
