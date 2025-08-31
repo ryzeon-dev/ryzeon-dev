@@ -1,32 +1,21 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ryzeon   
+# 💫 About Me:
+Software developer && System administrator
 
-Student of Computer Engineering at Università degli Studi di Firenze  
 
-Developer and mainteiner of [Skarlett programming language](https://github.com/skarlett-language)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ryzeon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryzeon58@protonmail.com) 
 
-* 🌍  I'm based in Firenze 
-* 🧠  Software developer && Backend developer
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=css&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ryzeon-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ryzeon-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryzeon-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Skills
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ryzeon-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div>
-  <img src="https://img.shields.io/badge/python-242627?logo=python&logoColor=16a085&style=for-the-badge" href="" />
-  <img src="https://img.shields.io/badge/rust-242627?logo=rust&logoColor=16a085&style=for-the-badge" href="" />  
-  <img src="https://img.shields.io/badge/c-242627?logo=c&logoColor=16a085&style=for-the-badge" href="" />
-  <br/>
-  <img src="https://img.shields.io/badge/c%2B%2B-242627?logo=C%2B%2B&logoColor=16a085&style=for-the-badge" href="" />
-  <img src="https://img.shields.io/badge/java-242627?logo=java&logoColor=16a085&style=for-the-badge" href="" />
-  <img src="https://img.shields.io/badge/javascript-242627?logo=javascript&logoColor=16a085&style=for-the-badge" href="" />
-  <br/>
-  <img src="https://img.shields.io/badge/html5-242627?logo=html5&logoColor=16a085&style=for-the-badge" href="" />
-  <img src="https://img.shields.io/badge/react-242627?logo=react&logoColor=16a085&style=for-the-badge" href="" />
-  <img src="https://img.shields.io/badge/css-242627?logo=css3&logoColor=16a085&style=for-the-badge" href="" />
-  <br/>
-  <img src="https://img.shields.io/badge/docker-242627?logo=docker&logoColor=16a085&style=for-the-badge" href="" />
-  <img src="https://img.shields.io/badge/postgresql-242627?logo=PostgreSQL&logoColor=16a085&style=for-the-badge" href="" />
-  <img src="https://img.shields.io/badge/sqlite-242627?logo=sqlite&logoColor=16a085&style=for-the-badge" href="" />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=ryzeon-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzeon-dev&langs_count=10&bg_color=242627&text_color=16A085&title_color=16A085&border_color=242627"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
